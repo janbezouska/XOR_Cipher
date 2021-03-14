@@ -47,7 +47,7 @@
                  Grid.Column="0" Grid.Row="2"
                  Height="160" Width="195"
                  FontSize="16"
-                 Focusable="False"/>
+                 Focusable="False" Cursor="Arrow"/>
         <Label x:Name="lab1"
                Grid.Column="0" Grid.Row="1"
                HorizontalAlignment="Right" VerticalAlignment="Top"
