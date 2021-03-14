@@ -1,5 +1,5 @@
 # XOR_Cipher
-Simple XOR encryption/decription.
+Jednoduché šifrování/dešifrování pomocí XOR šifry
 
 ## XOR Šifra
 Jedná se o jednoduchou šifru, která převede jednotlivé znaky textu na číslo podle ascii tabulky. To samé udělá pro klíč. 
