@@ -33,16 +33,19 @@
                      TabIndex="0"
                      Height="120"
                      VerticalAlignment="Top"
-                     FontSize="14" />
+                     FontSize="14" 
+                     VerticalScrollBarVisibility="Auto"/>
         <RichTextBox x:Name="rtbOutput"
                      Grid.Column="1" Grid.Row="2" 
-                     FontSize="14"/>
+                     FontSize="14"
+                     VerticalScrollBarVisibility="Auto"/>
         <TextBox x:Name="tbKey"
                  Grid.Column="1" Grid.Row="1"
                  TabIndex="1"
                  Height="60"
                  FontSize="14"
-                 VerticalAlignment="Bottom"/>
+                 VerticalAlignment="Bottom"
+                 HorizontalScrollBarVisibility="Auto"/>
         <TextBox x:Name="tbErr"
                  Grid.Column="0" Grid.Row="2"
                  Height="160" Width="195"
