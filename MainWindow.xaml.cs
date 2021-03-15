@@ -4,6 +4,8 @@ using System.Windows.Media;
 
 namespace XOR_Cipher
 {
+    //Jan Bezouška, 3.A 
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
