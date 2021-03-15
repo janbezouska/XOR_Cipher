@@ -2,7 +2,7 @@
 Jednoduché šifrování/dešifrování pomocí XOR šifry
 
 ## XOR Šifra
-Jedná se o jednoduchou šifru, která převede jednotlivé znaky textu na číslo podle ascii tabulky. To samé udělá pro klíč. 
+Jedná se o jednoduchou šifru, která převede jednotlivé znaky textu na 8-bitové ascii hodnoty. To samé udělá pro klíč. 
 Poté se provede XOR operace (exkluzivní disjunkce) na daném znaku textu a klíče.
 Proces je stejný jak pro šifrování, tak pro dešifrování.
 
